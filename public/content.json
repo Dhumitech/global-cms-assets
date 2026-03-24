@@ -50,7 +50,7 @@
         "home_page_section_5_p_3_0_0_1": "We design living landscapes. From intimate courtyard gardens to expansive farmhouse estates, each project is a collaboration between vision and earth.",
         "home_page_section_5_item_0_span_3_0_0_2_0_1": "Site assessment & soil analysis",
         "home_page_section_5_item_1_span_3_0_0_2_1_1": "Native plant integration",
-        "home_page_section_5_item_2_span_3_0_0_2_2_1": "Irrigation & maintenance planning",
+        "home_page_section_5_item_2_span_3_0_0_2_2_1": "Irrigation",
         "home_page_section_5_item_3_span_3_0_0_2_3_1": "Seasonal planting calendars",
         "home_page_section_5_span_3_0_0_3_0_0": "Explore More",
         "home_page_section_5_img_3_0_1_0_0": "/farmhouse.webp",
@@ -2669,8 +2669,8 @@
           }
         }
       },
-      "version": "1774385232549",
-      "updated_at": "2026-03-24T20:47:12.549Z",
+      "version": "1774385389418",
+      "updated_at": "2026-03-24T20:49:49.418Z",
       "source_url": "http://localhost:5174/"
     }
   }
