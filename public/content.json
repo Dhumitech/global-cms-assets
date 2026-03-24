@@ -2,7 +2,7 @@
   "pages": {
     "/": {
       "content": {
-        "home_page_section_1_item_0_img_0_0": "/hero.webp",
+        "home_page_section_1_item_0_img_0_0": "http://localhost:5174/hero.webp",
         "home_page_section_1_item_1_img_0_1": "/hero-mobile.webp",
         "home_page_section_1_h1_1_0_0_0": "Rooted in Nature, Grown with Care",
         "home_page_section_1_p_1_0_0_1": "Every plant tells a story of patience, earth, and quiet transformation",
@@ -2669,8 +2669,8 @@
           }
         }
       },
-      "version": "1774385171602",
-      "updated_at": "2026-03-24T20:46:11.602Z",
+      "version": "1774385232549",
+      "updated_at": "2026-03-24T20:47:12.549Z",
       "source_url": "http://localhost:5174/"
     }
   }
